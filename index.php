@@ -32,5 +32,6 @@
 
       <input type="submit" value="Iesniegt" />
     </form>
+    <a href="people.php">people.php</a>
   </body>
 </html>

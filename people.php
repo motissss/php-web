@@ -23,7 +23,7 @@ $people = array(
     <title>Document</title>
 </head>
 <body>
-    <h1>Saraksts ar personām:<h1>
+    <h1>Saraksts ar personām:</h1>
     <ul>
         <?php foreach ($people as $person): ?>
             <li>
